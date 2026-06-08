@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .vscode/
 .env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
